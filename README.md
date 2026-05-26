@@ -36,15 +36,12 @@
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ---
-
 # 📊 GitHub Stats
 
-![Simran's GitHub stats](https://github-readme-stats.vercel.app/api?username=SimranBadwal2006&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SimranBadwal2006&show_icons=true&theme=radical&cache_seconds=1800)
 
 ---
 
-# 🔥 Streak Stats
+# 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=SimranBadwal2006&theme=tokyonight)
-
----
+![GitHub Streak](https://streak-stats.demolab.com?user=SimranBadwal2006&theme=radical)
