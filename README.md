@@ -1,13 +1,12 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff69b4,100:8A2BE2&height=200&section=header&text=Simranjeet%20Kaur&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35"/>
 
-<h1 align="center">Hi 👋, I'm Simranjeet Kaur</h1>
-
 <h3 align="center">Full Stack Web Developer 🚀</h3>
 <p align="center">
 <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300"/>
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F70000&size=28&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;JavaScript+Enthusiast;Building+Cool+Projects+🚀">
+  <img src="https://readme-typing-svg.herokuapp.com?
+<h1 align="center">Hi 👋, I'm Simranjeet Kaur</h1>
 </p>
 <p align="center">
 
