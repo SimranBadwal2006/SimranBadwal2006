@@ -5,7 +5,7 @@
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250">
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F70000&size=28&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;React+Developer;JavaScript+Enthusiast;Building+Cool+Projects+🚀">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F70000&size=28&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;JavaScript+Enthusiast;Building+Cool+Projects+🚀">
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SimranBadwal2006&label=Profile%20Views&color=ff69b4&style=for-the-badge" />
@@ -17,13 +17,12 @@
 
   # 🙋‍♀️ About Me
 
-- 🌱 Currently learning MERN Stack
 - 💻 Full Stack Web Developer
 - 🚀 Building Real-World Projects
 - 🎯 Passionate about Coding & Development
 - ⚡ Fun fact: I love creating interactive websites
   
-  <img src="https://img.shields.io/github/followers/SimranBadwal2006?label=Followers&style=social" />
+  
 </p>
 
 # 🌐 Connect With Me
