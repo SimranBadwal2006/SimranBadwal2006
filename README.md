@@ -41,4 +41,4 @@
 
 # 💻 Most Used Languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimranBadwal2006&layout=compact&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimranBadwal2006&layout=compact&theme=radical" />
