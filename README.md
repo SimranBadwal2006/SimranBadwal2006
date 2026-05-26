@@ -21,7 +21,7 @@
 
 <img src="https://img.shields.io/github/followers/SimranBadwal2006?style=for-the-badge&color=blue"/>
 
-<img src="https://img.shields.io/badge/CGPA-8.5%2F10-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CGPA-8.1%2F10-success?style=for-the-badge"/>
 </p>
 
   # 🙋‍♀️ About Me
