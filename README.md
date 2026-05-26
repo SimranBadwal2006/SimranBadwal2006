@@ -38,10 +38,10 @@
 ---
 # 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SimranBadwal2006&show_icons=true&theme=radical&cache_seconds=1800)
+<img src="https://github-readme-stats.vercel.app/api?username=SimranBadwal2006&show_icons=true&theme=radical" />
 
 ---
 
 # 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=SimranBadwal2006&theme=radical)
+<img src="https://streak-stats.demolab.com?user=SimranBadwal2006&theme=radical" />
