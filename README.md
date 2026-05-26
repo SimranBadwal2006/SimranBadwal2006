@@ -1,18 +1,27 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff69b4,100:8A2BE2&height=200&section=header&text=Simranjeet%20Kaur&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35"/>
+
 <h1 align="center">Hi 👋, I'm Simranjeet Kaur</h1>
 
 <h3 align="center">Full Stack Web Developer 🚀</h3>
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250">
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300"/>
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=F70000&size=28&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;JavaScript+Enthusiast;Building+Cool+Projects+🚀">
 </p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SimranBadwal2006&label=Profile%20Views&color=ff69b4&style=for-the-badge" />
 
-  <img src="https://img.shields.io/github/followers/SimranBadwal2006?label=Followers&style=for-the-badge&color=blue" />
+  ![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+  ---
 
-  <img src="https://img.shields.io/badge/CGPA-8.1%2F10-success?style=for-the-badge" />
+<img src="https://user-images.githubusercontent.com/74038190/212284126-77d7c8b0-3e3d-4b72-9b4c-4f57d9f2c6b7.gif">
+  
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=SimranBadwal2006&label=Profile%20Views&color=ff69b4&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/SimranBadwal2006?style=for-the-badge&color=blue"/>
+
+<img src="https://img.shields.io/badge/CGPA-8.5%2F10-success?style=for-the-badge"/>
 </p>
 
   # 🙋‍♀️ About Me
@@ -56,6 +65,10 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 </p>
+
+# 📈 Contribution Graph
+
+[![Simran's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SimranBadwal2006&theme=react-dark)](https://github.com/SimranBadwal2006)
 
 # 📊 GitHub Stats
 
