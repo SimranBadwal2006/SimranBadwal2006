@@ -74,6 +74,10 @@
 
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SimranBadwal2006&show_icons=true&theme=radical"/>
 
+⭐ **Thx for visiting!**
+
+<!-- FOOTER WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 ---
 
 # 🔥 GitHub Streak
