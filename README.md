@@ -29,9 +29,7 @@
 - 💻 Full Stack Web Developer
 - 🚀 Building Real-World Projects
 - 🎯 Passionate about Coding & Development
-- ⚡ Fun fact: I love creating interactive websites
-  
-  
+- ⚡ Fun fact: I love creating interactive websites.
 </p>
 
 # 🌐 Connect With Me
