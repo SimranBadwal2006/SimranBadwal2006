@@ -6,7 +6,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=FF1493&center=true&vCenter=true&width=900&lines=Hey+There+👋;I+am+Simranjeet+Kaur;Full+Stack+Web+Developer;JavaScript+Enthusiast;Building+Amazing+Projects+🚀"/>
 </p>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
