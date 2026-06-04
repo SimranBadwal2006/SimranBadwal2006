@@ -1,5 +1,4 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff69b4,100:8A2BE2&height=200&section=header&text=Simranjeet%20Kaur&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35"/>
-
 <h3 align="center">Full Stack Web Developer 🚀</h3>
 <p align="center">
 <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300"/>
@@ -11,12 +10,9 @@
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 <img src="https://user-images.githubusercontent.com/74038190/212284126-77d7c8b0-3e3d-4b72-9b4c-4f57d9f2c6b7.gif">
-  
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=SimranBadwal2006&label=Profile%20Views&color=ff69b4&style=for-the-badge"/>
-
 <img src="https://img.shields.io/github/followers/SimranBadwal2006?style=for-the-badge&color=blue"/>
-
 <img src="https://img.shields.io/badge/CGPA-8.1%2F10-success?style=for-the-badge"/>
 </p>
   # 🙋‍♀️ About Me
