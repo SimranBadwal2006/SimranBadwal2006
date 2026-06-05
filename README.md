@@ -24,7 +24,6 @@
 </p>
 
 # 🌐 Connect With Me
-
 <p>
 <a href="https://linkedin.com/in/simranjeet-kaur-3384b82b0">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
@@ -33,7 +32,6 @@
 <a href="mailto:simran26.simu@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 <a href="https://instagram.com/_simran_badwal">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
