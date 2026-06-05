@@ -16,13 +16,11 @@
 <img src="https://img.shields.io/badge/CGPA-8.1%2F10-success?style=for-the-badge"/>
 </p>
   # 🙋‍♀️ About Me
-
 - 💻 Full Stack Web Developer
 - 🚀 Building Real-World Projects
 - 🎯 Passionate about Coding & Development
 - ⚡ Fun fact: I love creating interactive websites.
 </p>
-
 # 🌐 Connect With Me
 <p>
 <a href="https://linkedin.com/in/simranjeet-kaur-3384b82b0">
