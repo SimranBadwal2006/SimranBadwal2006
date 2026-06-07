@@ -48,6 +48,7 @@
 </p>
 # 📈 Contribution Graph
 [![Simran's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SimranBadwal2006&theme=react-dark)](https://github.com/SimranBadwal2006)
+
 # 📊 GitHub Stats
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SimranBadwal2006&show_icons=true&theme=radical"/>
 
