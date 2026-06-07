@@ -52,7 +52,6 @@
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SimranBadwal2006&show_icons=true&theme=radical"/>
 
 # 🔥 GitHub Streak
-
 <img src="https://streak-stats.demolab.com?user=SimranBadwal2006&theme=radical" />
 
 # 💻 Most Used Languages
