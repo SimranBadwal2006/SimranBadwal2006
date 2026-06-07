@@ -46,7 +46,6 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 </p>
-
 # 📈 Contribution Graph
 
 [![Simran's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SimranBadwal2006&theme=react-dark)](https://github.com/SimranBadwal2006)
