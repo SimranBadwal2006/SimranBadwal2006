@@ -25,7 +25,6 @@
 - ⚡ Fun fact: I love creating interactive websites.
 </p>
 
-
 # 🌐 Connect With Me
 <p>
 <a href="https://linkedin.com/in/simranjeet-kaur-3384b82b0">
