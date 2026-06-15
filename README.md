@@ -35,6 +35,7 @@
 | ⚡ **Fun Fact** | I enjoy turning ideas into real projects through coding |
 
 </div>
+
 ## 🚀 Featured Projects
 
 <table width="100%">
