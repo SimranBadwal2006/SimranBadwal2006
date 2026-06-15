@@ -35,7 +35,87 @@
 | ⚡ **Fun Fact** | I enjoy turning ideas into real projects through coding |
 
 </div>
+## 🚀 Featured Projects
 
+<table width="100%">
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🎓 Attendify
+
+**HTML | CSS | JavaScript | Node.js | Express.js | MongoDB | April 2026**
+
+Full-stack attendance management system for students and faculty.
+
+- 🔐 Secure authentication system  
+- 🤖 Attendance marking using face recognition  
+- 🗃️ MongoDB integration for storing user and attendance data  
+- 👥 Team of 3 — Frontend development + API integration  
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🤖 StudySphere AI
+
+**React.js | Node.js | MongoDB | OpenRouter API | May 2026**
+
+AI-powered study companion designed to enhance student learning and productivity.
+
+-💬 AI chatbot for academic assistance and doubt solving
+-📝 Automated note summarization and smart study planning
+-❓ AI-generated quizzes and flashcards for effective revision
+-🔐 Secure authentication with chat history management
+-🗃️ MongoDB integration for user data and learning records
+-🚀 Real-time AI responses powered by OpenRouter API
+-👤 Individual Project
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🎓 Learning Management System (LMS)
+
+**HTML | CSS | JavaScript | Node.js | Express.js | MongoDB | Nov 2025**
+
+Full-stack learning management platform for students and instructors.
+
+-🔐 Role-based authentication for Students and Teachers
+-📚 Course exploration, enrollment, and management features
+-👨‍🏫 Dedicated teacher dashboard for course administration
+-🗃️ MongoDB integration for storing users and course data
+-🔗 RESTful API integration between frontend and backend
+-👤 Individual Project 
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🎵 Moodify
+
+**HTML | CSS | JavaScript | Feb 2026**
+
+Interactive mood-based music recommendation web application.
+
+-🎧 Suggests playlists and songs based on user mood
+-😊 Multiple mood categories including Happy, Sad, Relaxed, and Energetic
+-🎨 Responsive and user-friendly interface
+-⚡ Dynamic content rendering using JavaScript
+-👤 Individual Project 
+
+</td>
+
+</tr>
+
+</table>
+
+---
 # 🌐 Connect With Me
 <p>
 <a href="https://linkedin.com/in/simranjeet-kaur-3384b82b0">
