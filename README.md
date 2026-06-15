@@ -170,27 +170,6 @@ Interactive mood-based music recommendation web application.
 
 ---
 
-## 🏅 Certifications
-
-<div align="center">
-
-
-<a href="https://courses.ibmcep.cognitiveclass.ai/certificates/858e3ccd20864e36908d9c5baf417c5a" target="_blank">
-  <img src="https://img.shields.io/badge/IBM-Front%20End%20Technologies%20Certificate-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="Front End TechnologiesCertificate"/>
-</a>
-
-<a href="https://www.freecodecamp.org/certification/nilakshi/responsive-web-design-v9" target="_blank">
-  <img src="https://img.shields.io/badge/freeCodeCamp-Responsive%20Web%20Design%20Certificate-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="Responsive Web Design Certificate"/>
-</a>
-
-<a href="https://www.hackerrank.com/certificates/f79b19948c5c" target="_blank">
-  <img src="https://img.shields.io/badge/HackerRank-SQL%20Certificate-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="SQL basics"/>
-</a>
-
-</div>
-
-
----
 
 # 📈 Contribution Graph
 [![Simran's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SimranBadwal2006&theme=react-dark)](https://github.com/SimranBadwal2006)
