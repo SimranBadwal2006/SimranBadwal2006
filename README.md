@@ -117,7 +117,10 @@ Interactive mood-based music recommendation web application.
 </table>
 
 ---
-# 🌐 Connect With Me
+
+## 🌐 Connect With Me
+
+<div align="center">
 <p>
 <a href="https://linkedin.com/in/simranjeet-kaur-3384b82b0">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
@@ -128,8 +131,12 @@ Interactive mood-based music recommendation web application.
 <a href="https://instagram.com/_simran_badwal">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-</p>
 
+
+</div>
+
+
+---
 
 ## 🛠️ Tech Stack
 
