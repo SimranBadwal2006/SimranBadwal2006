@@ -131,19 +131,66 @@ Interactive mood-based music recommendation web application.
 </p>
 
 
-# 💻 Tech Stack
-<p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-</p>
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**
+
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Frontend**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+**Databases**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
+
+---
+
+## 🏅 Certifications
+
+<div align="center">
+
+
+<a href="https://courses.ibmcep.cognitiveclass.ai/certificates/858e3ccd20864e36908d9c5baf417c5a" target="_blank">
+  <img src="https://img.shields.io/badge/IBM-Front%20End%20Technologies%20Certificate-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="Front End TechnologiesCertificate"/>
+</a>
+
+<a href="https://www.freecodecamp.org/certification/nilakshi/responsive-web-design-v9" target="_blank">
+  <img src="https://img.shields.io/badge/freeCodeCamp-Responsive%20Web%20Design%20Certificate-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="Responsive Web Design Certificate"/>
+</a>
+
+<a href="https://www.hackerrank.com/certificates/f79b19948c5c" target="_blank">
+  <img src="https://img.shields.io/badge/HackerRank-SQL%20Certificate-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="SQL basics"/>
+</a>
+
+</div>
+
+
+---
 
 # 📈 Contribution Graph
 [![Simran's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SimranBadwal2006&theme=react-dark)](https://github.com/SimranBadwal2006)
