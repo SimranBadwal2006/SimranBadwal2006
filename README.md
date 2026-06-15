@@ -19,11 +19,22 @@
 </p>
 
   # 🙋‍♀️ About Me
-- 💻 Full Stack Web Developer
-- 🚀 Building Real-World Projects
-- 🎯 Passionate about Coding & Development
-- ⚡ Fun fact: I love creating interactive websites.
-</p>
+
+<div align="center">
+
+| | |
+|:---|:---|
+| 🧑‍💻 **Name** | Simranjeet Kaur |
+| 🎓 **University** | Rayat Bahra Professional University |
+| 📊 **CGPA** | 8.1 / 10 (up to Sem 5) |
+| 📍 **Location** | Punjab, India |
+| 💼 **Role** | Full Stack Developer — MERN Stack |
+| 📧 **Email** | simran26.simu@gmail.com |
+| 💡 **Passions** | Web Development, Frontend Development, Skill Enhancement |
+| 🔨 **Currently** | Building Frontend + Enhancing skills in React.js |
+| ⚡ **Fun Fact** | I enjoy turning ideas into real projects through coding |
+
+</div>
 
 # 🌐 Connect With Me
 <p>
