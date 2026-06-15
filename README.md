@@ -135,6 +135,9 @@ Interactive mood-based music recommendation web application.
 <a href="https://instagram.com/_simran_badwal">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
+<a href="https://www.hackerrank.com/simran26_simu">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
 
 
 </div>
