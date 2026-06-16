@@ -23,7 +23,7 @@
   # 🙋‍♀️ About Me
 
 <div align="center">
-
+  
 | | |
 |:---|:---|
 | 🧑‍💻 **Name** | Simranjeet Kaur |
