@@ -46,69 +46,54 @@
 
 ## 🚀 Featured Projects
 
-<table width="100%">
-
-
+<table>
 <tr>
-  
+
 <td width="50%" valign="top">
 
 ### 🎯 Object Detection System
 
 **Python | OpenCV | YOLOv8 | Computer Vision | April 2026**
 
-AI-powered object detection system capable of identifying and tracking objects in real time.
-
-- 🎥 Real-time object detection using webcam and video streams  
-- 🤖 Implemented YOLOv8 model for accurate object recognition 
-- 📦 Detection and classification of multiple objects with confidence scores 
-- 🖼️ Bounding box visualization for detected objects
-- ⚡ Built using OpenCV for image processing and computer vision tasks
-- 👤 Individual Project
+* 🎥 Real-time object detection using webcam and video streams
+* 🤖 Implemented YOLOv8 model for accurate object recognition
+* 📦 Detection and classification of multiple objects
+* 🖼️ Bounding box visualization
+* ⚡ Built using OpenCV
+* 👤 Individual Project
 
 </td>
-</tr>
 
-<tr>
-  
 <td width="50%" valign="top">
 
 ### 🎓 Attendify
 
 **HTML | CSS | JavaScript | Node.js | Express.js | MongoDB | April 2026**
 
-Full-stack attendance management system for students and faculty.
-
-- 🔐 Secure authentication system  
-- 🤖 Attendance marking using face recognition  
-- 🗃️ MongoDB integration for storing user and attendance data  
-- 👥 Team of 3 — Frontend development + API integration  
+* 🔐 Secure authentication system
+* 🤖 Attendance marking using face recognition
+* 🗃️ MongoDB integration
+* 👥 Team of 3 — Frontend + API integration
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
 ### 🤖 StudySphere AI
 
 **React.js | Node.js | MongoDB | OpenRouter API | May 2026**
 
-AI-powered study companion designed to enhance student learning and productivity.
-
-- 💬 AI chatbot for academic assistance and doubt solving
-- 📝 Automated note summarization and smart study planning
-- ❓ AI-generated quizzes and flashcards for effective revision
-- 🔐 Secure authentication with chat history management
-- 🗃️ MongoDB integration for user data and learning records
-- 🚀 Real-time AI responses powered by OpenRouter API
-- 👤 Individual Project
+* 💬 AI chatbot assistance
+* 📝 Note summarization
+* ❓ Quiz & flashcard generation
+* 🔐 Secure authentication
+* 🚀 Real-time AI responses
 
 </td>
-
-</tr>
-
-<tr>
 
 <td width="50%" valign="top">
 
@@ -116,16 +101,17 @@ AI-powered study companion designed to enhance student learning and productivity
 
 **HTML | CSS | JavaScript | Node.js | Express.js | MongoDB | Nov 2025**
 
-Full-stack learning management platform for students and instructors.
-
-- 🔐 Role-based authentication for Students and Teachers
-- 📚 Course exploration, enrollment, and management features
-- 👨‍🏫 Dedicated teacher dashboard for course administration
-- 🗃️ MongoDB integration for storing users and course data
-- 🔗 RESTful API integration between frontend and backend
-- 👤 Individual Project 
+* 🔐 Role-based authentication
+* 📚 Course enrollment & management
+* 👨‍🏫 Teacher dashboard
+* 🗃️ MongoDB integration
+* 🔗 REST API integration
 
 </td>
+
+</tr>
+
+<tr>
 
 <td width="50%" valign="top">
 
@@ -133,19 +119,20 @@ Full-stack learning management platform for students and instructors.
 
 **HTML | CSS | JavaScript | Feb 2026**
 
-Interactive mood-based music recommendation web application.
-
-- 🎧 Suggests playlists and songs based on user mood
-- 😊 Multiple mood categories including Happy, Sad, Relaxed, and Energetic
-- 🎨 Responsive and user-friendly interface
-- ⚡ Dynamic content rendering using JavaScript
-- 👤 Individual Project 
+* 🎧 Mood-based music recommendations
+* 😊 Multiple mood categories
+* 🎨 Responsive UI
+* ⚡ Dynamic content rendering
+* 👤 Individual Project
 
 </td>
+
+<td width="50%"></td>
 
 </tr>
 
 </table>
+
 
 
 ---
