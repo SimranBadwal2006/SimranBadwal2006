@@ -44,73 +44,6 @@
 ---
 
 
-## 🚀 Featured Projects
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### 🎯 Object Detection System
-
-**Python | OpenCV | YOLOv8 | Computer Vision | April 2026**
-
-* 🎥 Real-time object detection using webcam and video streams
-* 🤖 Implemented YOLOv8 model for accurate object recognition
-* 📦 Detection and classification of multiple objects
-* 🖼️ Bounding box visualization
-* ⚡ Built using OpenCV
-* 👤 Individual Project
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🎓 Attendify
-
-**HTML | CSS | JavaScript | Node.js | Express.js | MongoDB | April 2026**
-
-* 🔐 Secure authentication system
-* 🤖 Attendance marking using face recognition
-* 🗃️ MongoDB integration
-* 👥 Team of 3 — Frontend + API integration
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 🤖 StudySphere AI
-
-**React.js | Node.js | MongoDB | OpenRouter API | May 2026**
-
-* 💬 AI chatbot assistance
-* 📝 Note summarization
-* ❓ Quiz & flashcard generation
-* 🔐 Secure authentication
-* 🚀 Real-time AI responses
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🎓 Learning Management System (LMS)
-
-**HTML | CSS | JavaScript | Node.js | Express.js | MongoDB | Nov 2025**
-
-* 🔐 Role-based authentication
-* 📚 Course enrollment & management
-* 👨‍🏫 Teacher dashboard
-* 🗃️ MongoDB integration
-* 🔗 REST API integration
-
-</td>
-
-</tr>
-
 <tr>
 
 <td width="50%" valign="top">
@@ -127,12 +60,24 @@
 
 </td>
 
-<td width="50%"></td>
+<td width="50%" valign="top">
+
+### 🌦️ Weather Prediction App
+
+**HTML | CSS | JavaScript | OpenWeather API | Dec 2025**
+
+* 🌍 Search weather details for any city worldwide
+* 🌡️ Displays temperature, humidity, wind speed, and weather conditions
+* ☁️ Real-time weather data integration using OpenWeather API
+* 📱 Responsive and user-friendly interface across devices
+* ⚡ Dynamic weather updates with JavaScript
+* 👤 Individual Project
+
+</td>
 
 </tr>
 
 </table>
-
 
 
 ---
