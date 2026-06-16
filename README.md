@@ -92,6 +92,7 @@
 * ❓ Quiz & flashcard generation
 * 🔐 Secure authentication
 * 🚀 Real-time AI responses
+* 👤 Individual Project
 
 </td>
 
