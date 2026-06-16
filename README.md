@@ -18,7 +18,9 @@
 <img src="https://img.shields.io/badge/CGPA-8.1%2F10-success?style=for-the-badge"/>
 </p>
 
+
 ---
+
 
   # 🙋‍♀️ About Me
 
@@ -38,7 +40,9 @@
 
 </div>
 
+
 ---
+
 
 ## 🚀 Featured Projects
 
@@ -120,7 +124,9 @@ Interactive mood-based music recommendation web application.
 
 </table>
 
+
 ---
+
 
 ## 🌐 Connect With Me
 
@@ -207,20 +213,29 @@ Interactive mood-based music recommendation web application.
 
 </div>
 
+---
+
+
 # 📈 Contribution Graph
 [![Simran's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SimranBadwal2006&theme=react-dark)](https://github.com/SimranBadwal2006)
 
+
 ---
+
 
 # 📊 GitHub Stats
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SimranBadwal2006&show_icons=true&theme=radical"/>
 
+
 ---
+
 
 # 🔥 GitHub Streak
 <img src="https://streak-stats.demolab.com?user=SimranBadwal2006&theme=radical" />
 
+
 ---
+
 
 # 💻 Most Used Languages
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SimranBadwal2006&layout=compact&theme=radical" />
