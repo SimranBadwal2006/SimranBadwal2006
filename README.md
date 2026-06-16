@@ -192,7 +192,7 @@ Interactive mood-based music recommendation web application.
 <div align="center">
 
 
-<a href="https://www.[freecodecamp.org/certification/nilakshi/responsive-web-design-v9" target="_blank](https://www.freecodecamp.org/certification/simranjeet_kaur/responsive-web-design-v9)">
+<a href="(https://www.freecodecamp.org/certification/simranjeet_kaur/responsive-web-design-v9)">
   <img src="https://img.shields.io/badge/freeCodeCamp-Responsive%20Web%20Design%20Certificate-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="Responsive Web Design Certificate"/>
 </a>
 
