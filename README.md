@@ -191,13 +191,18 @@ Interactive mood-based music recommendation web application.
 
 <div align="center">
 
-
-<a href="(https://www.freecodecamp.org/certification/simranjeet_kaur/responsive-web-design-v9)">
+<a href="https://www.freecodecamp.org/certification/simranjeet_kaur/responsive-web-design-v9">
   <img src="https://img.shields.io/badge/freeCodeCamp-Responsive%20Web%20Design%20Certificate-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="Responsive Web Design Certificate"/>
 </a>
 
+<br><br>
+
 <a href="https://www.hackerrank.com/certificates/40f787e05b5f">
-  <img src="https://img.shields.io/badge/HackerRank-SQL%20Certificate-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="SQL basics"/>
+  <img src="https://img.shields.io/badge/HackerRank-SQL%20Certificate-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="SQL Certificate"/>
+</a>
+
+<a href="https://www.hackerrank.com/certificates/2d8df524b4f8">
+  <img src="https://img.shields.io/badge/HackerRank-CSS%20Certificate-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="CSS Certificate"/>
 </a>
 
 </div>
