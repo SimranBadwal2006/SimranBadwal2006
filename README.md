@@ -48,6 +48,27 @@
 
 <table width="100%">
 
+
+<tr>
+  
+<td width="50%" valign="top">
+
+### 🎯 Object Detection System
+
+**Python | OpenCV | YOLOv8 | Computer Vision | April 2026**
+
+AI-powered object detection system capable of identifying and tracking objects in real time.
+
+- 🎥 Real-time object detection using webcam and video streams  
+- 🤖 Implemented YOLOv8 model for accurate object recognition 
+- 📦 Detection and classification of multiple objects with confidence scores 
+- 🖼️ Bounding box visualization for detected objects
+- ⚡ Built using OpenCV for image processing and computer vision tasks
+- 👤 Individual Project
+
+</td>
+</tr>
+
 <tr>
   
 <td width="50%" valign="top">
@@ -64,7 +85,9 @@ Full-stack attendance management system for students and faculty.
 - 👥 Team of 3 — Frontend development + API integration  
 
 </td>
+</tr>
 
+<tr>
 <td width="50%" valign="top">
 
 ### 🤖 StudySphere AI
@@ -73,13 +96,13 @@ Full-stack attendance management system for students and faculty.
 
 AI-powered study companion designed to enhance student learning and productivity.
 
--💬 AI chatbot for academic assistance and doubt solving
--📝 Automated note summarization and smart study planning
--❓ AI-generated quizzes and flashcards for effective revision
--🔐 Secure authentication with chat history management
--🗃️ MongoDB integration for user data and learning records
--🚀 Real-time AI responses powered by OpenRouter API
--👤 Individual Project
+- 💬 AI chatbot for academic assistance and doubt solving
+- 📝 Automated note summarization and smart study planning
+- ❓ AI-generated quizzes and flashcards for effective revision
+- 🔐 Secure authentication with chat history management
+- 🗃️ MongoDB integration for user data and learning records
+- 🚀 Real-time AI responses powered by OpenRouter API
+- 👤 Individual Project
 
 </td>
 
@@ -95,12 +118,12 @@ AI-powered study companion designed to enhance student learning and productivity
 
 Full-stack learning management platform for students and instructors.
 
--🔐 Role-based authentication for Students and Teachers
--📚 Course exploration, enrollment, and management features
--👨‍🏫 Dedicated teacher dashboard for course administration
--🗃️ MongoDB integration for storing users and course data
--🔗 RESTful API integration between frontend and backend
--👤 Individual Project 
+- 🔐 Role-based authentication for Students and Teachers
+- 📚 Course exploration, enrollment, and management features
+- 👨‍🏫 Dedicated teacher dashboard for course administration
+- 🗃️ MongoDB integration for storing users and course data
+- 🔗 RESTful API integration between frontend and backend
+- 👤 Individual Project 
 
 </td>
 
@@ -112,11 +135,11 @@ Full-stack learning management platform for students and instructors.
 
 Interactive mood-based music recommendation web application.
 
--🎧 Suggests playlists and songs based on user mood
--😊 Multiple mood categories including Happy, Sad, Relaxed, and Energetic
--🎨 Responsive and user-friendly interface
--⚡ Dynamic content rendering using JavaScript
--👤 Individual Project 
+- 🎧 Suggests playlists and songs based on user mood
+- 😊 Multiple mood categories including Happy, Sad, Relaxed, and Energetic
+- 🎨 Responsive and user-friendly interface
+- ⚡ Dynamic content rendering using JavaScript
+- 👤 Individual Project 
 
 </td>
 
