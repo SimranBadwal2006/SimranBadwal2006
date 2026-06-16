@@ -142,7 +142,7 @@ Interactive weather forecasting application that provides real-time weather info
 * ⚡ Dynamic weather updates with JavaScript
 * 👤 Individual Project
 
-</td>
+</td></td>
 
 </tr>
 </table>
