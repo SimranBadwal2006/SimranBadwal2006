@@ -1,5 +1,4 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff69b4,100:8A2BE2&height=200&section=header&text=Simranjeet%20Kaur&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35"/>
-
 <h3 align="center">Full Stack Web Developer 🚀</h3>
 <p align="center">
   
