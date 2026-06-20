@@ -227,8 +227,6 @@ Interactive weather forecasting application that provides real-time weather info
   <img src="https://img.shields.io/badge/freeCodeCamp-Responsive%20Web%20Design%20Certificate-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="Responsive Web Design Certificate"/>
 </a>
 <br>
-
-
 <a href="https://www.hackerrank.com/certificates/40f787e05b5f">
   <img src="https://img.shields.io/badge/HackerRank-SQL%20Certificate-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="SQL Certificate"/>
 </a>
