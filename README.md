@@ -109,7 +109,7 @@
 * 👨‍🏫 Teacher dashboard
 * 🗃️ MongoDB integration
 * 🔗 REST API integration
-
+  
 </td>
 
 </tr>
