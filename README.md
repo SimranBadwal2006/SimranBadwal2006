@@ -50,7 +50,7 @@
 
 <table>
 <tr>
-
+  
 <td width="50%" valign="top">
 
 ### 🎯 Object Detection System
