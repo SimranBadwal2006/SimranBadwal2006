@@ -2,7 +2,7 @@
 
 <h3 align="center">Full Stack Web Developer 🚀</h3>
 <p align="center">
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300"/>
+<img src="https://user-images.githubusercontent.com/74038190/212744275-b9e0b0f4-8d54-4c4b-b1c7-d5a4dbb4c0b7.gif" width="750"/>
 </p>
 <p align="center">
 
