@@ -1,12 +1,15 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff69b4,100:8A2BE2&height=200&section=header&text=Simranjeet%20Kaur&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35"/>
+<h1 align="center">Hi 👋, I'm Simranjeet Kaur</h1>
+<h3 align="center">💻 Full Stack Web Developer | MERN Stack | AI Enthusiast 🚀</h3>
 
-<h3 align="center">Full Stack Web Developer 🚀</h3>
 <p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212744275-b9e0b0f4-8d54-4c4b-b1c7-d5a4dbb4c0b7.gif" width="750"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=FF1493&center=true&vCenter=true&width=900&lines=Full+Stack+Web+Developer;MERN+Stack+Developer;JavaScript+Enthusiast;Building+AI+Powered+Applications;Always+Learning+New+Technologies+🚀" />
 </p>
-<p align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=FF1493&center=true&vCenter=true&width=900&lines=Hey+There+👋;I+am+Simranjeet+Kaur;Full+Stack+Web+Developer;JavaScript+Enthusiast;Building+Amazing+Projects+🚀"/>
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDY3N3Ezb2J5dWtwY3Fwbm5pMWQ0NGMxNWNpa2NlMnNwZXM0bDl0dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif" width="700">
+</p>
+
+font=Fira+Code&size=35&duration=3000&pause=1000&color=FF1493&center=true&vCenter=true&width=900&lines=Hey+There+👋;I+am+Simranjeet+Kaur;Full+Stack+Web+Developer;JavaScript+Enthusiast;Building+Amazing+Projects+🚀"/>
 </p>
 <p align="center">
   
