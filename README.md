@@ -6,7 +6,8 @@
 </p>
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDY3N3Ezb2J5dWtwY3Fwbm5pMWQ0NGMxNWNpa2NlMnNwZXM0bDl0dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif" width="700">
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212897782-96581576-8b39-4d9d-8e4f-f2b95f87b5b4.gif" width="750"/>
 </p>
 
 font=Fira+Code&size=35&duration=3000&pause=1000&color=FF1493&center=true&vCenter=true&width=900&lines=Hey+There+👋;I+am+Simranjeet+Kaur;Full+Stack+Web+Developer;JavaScript+Enthusiast;Building+Amazing+Projects+🚀"/>
