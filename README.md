@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212897782-96581576-8b39-4d9d-8e4f-f2b95f87b5b4.gif" width="750"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="700"/>
 </p>
 <p align="center">
   
