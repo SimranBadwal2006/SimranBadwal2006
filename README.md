@@ -1,3 +1,4 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:6a11cb,100:ff4ecd&text=Simranjeet%20Kaur&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 <h1 align="center">Hi 👋, I'm Simranjeet Kaur</h1>
 
 <h3 align="center">
