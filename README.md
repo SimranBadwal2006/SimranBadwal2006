@@ -1,16 +1,15 @@
 <h1 align="center">Hi 👋, I'm Simranjeet Kaur</h1>
-<h3 align="center">💻 Full Stack Web Developer | MERN Stack | AI Enthusiast 🚀</h3>
+
+<h3 align="center">
+💻 Full Stack Web Developer | MERN Stack | AI Enthusiast 🚀
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=FF1493&center=true&vCenter=true&width=900&lines=Full+Stack+Web+Developer;MERN+Stack+Developer;JavaScript+Enthusiast;Building+AI+Powered+Applications;Always+Learning+New+Technologies+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=FF1493&center=true&vCenter=true&width=900&lines=Hey+There+👋;I+am+Simranjeet+Kaur;Full+Stack+Web+Developer;MERN+Stack+Developer;JavaScript+Enthusiast;Building+Amazing+Projects+🚀;Always+Learning+New+Technologies✨" />
 </p>
 
 <p align="center">
-<p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212897782-96581576-8b39-4d9d-8e4f-f2b95f87b5b4.gif" width="750"/>
-</p>
-
-font=Fira+Code&size=35&duration=3000&pause=1000&color=FF1493&center=true&vCenter=true&width=900&lines=Hey+There+👋;I+am+Simranjeet+Kaur;Full+Stack+Web+Developer;JavaScript+Enthusiast;Building+Amazing+Projects+🚀"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212897782-96581576-8b39-4d9d-8e4f-f2b95f87b5b4.gif" width="750"/>
 </p>
 <p align="center">
   
