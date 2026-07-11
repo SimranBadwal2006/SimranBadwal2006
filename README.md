@@ -1,4 +1,7 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:6a11cb,100:ff4ecd&text=Simranjeet%20Kaur&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<p align="center">
+  <img src="images/banner.png" width="100%" alt="Simranjeet Kaur Banner"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Simranjeet Kaur</h1>
 
 <h3 align="center">
@@ -6,7 +9,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=FF1493&center=true&vCenter=true&width=900&lines=Hey+There+👋;I+am+Simranjeet+Kaur;Full+Stack+Web+Developer;MERN+Stack+Developer;JavaScript+Enthusiast;Building+Amazing+Projects+🚀;Always+Learning+New+Technologies✨" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=FF1493&center=true&vCenter=true&width=900&lines=Hey+There+👋;I'm+Simranjeet+Kaur;Full+Stack+Web+Developer;MERN+Stack+Developer;JavaScript+Enthusiast;Building+AI+Powered+Applications;Always+Learning+New+Technologies+🚀" />
 </p>
 <p align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="700"/>
