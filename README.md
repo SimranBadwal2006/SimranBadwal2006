@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/banner.png" width="100%" alt="Simranjeet Kaur Banner"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Simranjeet Kaur</h1>
 
 <p align="center">
