@@ -2,7 +2,7 @@
   <img src="images/banner.png" width="100%" alt="Simranjeet Kaur Banner"/>
 </p>
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=Simranjeet%20Kaur&fontSize=55&fontColor=ffffff&color=0:0f2027,50:203a43,100:2c5364&animation=fadeIn&desc=Full%20Stack%20Web%20Developer%20🚀&descAlignY=68"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=17,18,19,20&text=Simranjeet%20Kaur&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Web%20Developer%20🚀&descAlignY=62&descSize=24"/>
 </p>
 </p>
 </p>
