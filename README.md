@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:ff4ecd,100:8a2be2&text=Simranjeet%20Kaur&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&descAlignY=62&descSize=24"/>
 </p>
-
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=FF1493&center=true&vCenter=true&width=900&lines=Full+Stack+Web+Developer;MERN+Stack+Developer;JavaScript+Enthusiast;Building+AI+Powered+Applications;Always+Learning+New+Technologies+🚀" />isme ekk gif lgaa kk bhejo </p>
 <p align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500"/>
 </p>
