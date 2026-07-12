@@ -1,7 +1,12 @@
 <p align="center">
   <img src="images/banner.png" width="100%" alt="Simranjeet Kaur Banner"/>
 </p>
-
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=12,20,24,30&text=Simranjeet%20Kaur&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Full%20Stack%20Web%20Developer%20|%20MERN%20Stack%20|%20AI%20Enthusiast&descAlignY=60&descSize=22"
+    width="100%"
+  />
+</p>
 <h1 align="center">Hi 👋, I'm Simranjeet Kaur</h1>
 
 <p align="center">
