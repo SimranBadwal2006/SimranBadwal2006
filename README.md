@@ -2,10 +2,8 @@
   <img src="images/banner.png" width="100%" alt="Simranjeet Kaur Banner"/>
 </p>
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=venom&height=250&text=Simranjeet%20Kaur&fontSize=55&fontColor=ffffff&color=0:ff4ecd,100:6a11cb&animation=fadeIn&desc=Full%20Stack%20Web%20Developer%20🚀&descAlignY=68&descSize=22"
-    width="100%"
-  />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=Simranjeet%20Kaur&fontSize=55&fontColor=ffffff&color=0:0f2027,50:203a43,100:2c5364&animation=fadeIn&desc=Full%20Stack%20Web%20Developer%20🚀&descAlignY=68"/>
+</p>
 </p>
 </p>
 <h1 align="center">Hi 👋, I'm Simranjeet Kaur</h1>
