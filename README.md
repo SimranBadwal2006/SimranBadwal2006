@@ -253,9 +253,11 @@ Interactive weather forecasting application that provides real-time weather info
 ---
 
 
-## 🔥 GitHub Streak
+## 🔥 GitHub Activity
 
-![GitHub Streak](https://streak-stats.demolab.com?user=SimranBadwal2006&theme=radical)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SimranBadwal2006&theme=radical" />
+</p>
 
 
 ---
