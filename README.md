@@ -255,9 +255,7 @@ Interactive weather forecasting application that provides real-time weather info
 
 ## 🔥 GitHub Streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=SimranBadwal2006&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=SimranBadwal2006&theme=radical&hide_border=true)
 
 
 ---
