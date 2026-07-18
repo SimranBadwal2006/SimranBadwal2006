@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:ff4ecd,100:8a2be2&text=Simranjeet%20Kaur&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&descAlignY=62&descSize=24"/>
 </p>
