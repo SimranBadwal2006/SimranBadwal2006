@@ -11,7 +11,6 @@
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
-
 <img src="https://user-images.githubusercontent.com/74038190/212284126-77d7c8b0-3e3d-4b72-9b4c-4f57d9f2c6b7.gif">
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=SimranBadwal2006&label=Profile%20Views&color=ff69b4&style=for-the-badge"/>
