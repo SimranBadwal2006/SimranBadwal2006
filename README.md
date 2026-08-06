@@ -16,7 +16,6 @@
 <img src="https://img.shields.io/badge/CGPA-8.1%2F10-success?style=for-the-badge"/>
 </p>
 
-
 ---
 
 
