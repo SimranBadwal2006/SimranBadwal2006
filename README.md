@@ -243,8 +243,6 @@ Interactive weather forecasting application that provides real-time weather info
 ---
 
 
-# 📊 GitHub Stats
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SimranBadwal2006&show_icons=true&theme=radical"/>
 
 
 ---
