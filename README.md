@@ -261,6 +261,10 @@ Interactive weather forecasting application that provides real-time weather info
 # 💻 Most Used Languages
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimranBadwal2006&layout=compact&theme=radical" />
+
+---
+
+
 <h2 align="center">⭐ Thanks for Visiting! ⭐</h2>
 
 <p align="center">
