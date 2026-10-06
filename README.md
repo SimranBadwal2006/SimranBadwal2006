@@ -238,6 +238,7 @@ Interactive weather forecasting application that provides real-time weather info
 
 # 📈 Contribution Graph
 
+
 [![Simran's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SimranBadwal2006)](https://github.com/SimranBadwal2006)
 
 
