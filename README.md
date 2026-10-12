@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/PROFILE-Developer-C77DFF?style=flat-square" alt="Developer badge"/>
+<img src="https://komarev.com/ghpvc/?username=SimranBadwal2006&label=Profile%20Views&color=ff69b4&style=for-the-badge"/>
 <img src="https://img.shields.io/github/followers/SimranBadwal2006?style=flat-square&color=9B5DE5&label=FOLLOWERS" alt="GitHub followers"/>
   <img src="https://img.shields.io/badge/CGPA-8.1%2F10-EA4C89?style=flat-square" alt="CGPA"/>
 </p>
