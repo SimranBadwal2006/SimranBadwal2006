@@ -20,7 +20,7 @@
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=SimranBadwal2006&label=PROFILE%20VIEWS&color=C77DFF&style=flat-square" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/SimranBadwal2006?style=flat-square&color=9B5DE5&label=FOLLOWERS" alt="GitHub followers"/>
+<img src="https://img.shields.io/github/followers/SimranBadwal2006?style=flat-square&color=9B5DE5&label=FOLLOWERS" alt="GitHub followers"/>
   <img src="https://img.shields.io/badge/CGPA-8.1%2F10-EA4C89?style=flat-square" alt="CGPA"/>
 </p>
 
@@ -202,10 +202,14 @@ Hi there! I'm **Simranjeet Kaur**, a Computer Science Engineering student who lo
   <img width="75%" src="https://streak-stats.demolab.com?user=SimranBadwal2006&theme=tokyonight&hide_border=true&background=0D1117&ring=C77DFF&fire=F15BB5&currStreakLabel=C77DFF" alt="GitHub contribution streak"/>
 </p>
 
-### Contribution Graph
+<h2 align="center">✧ Contribution Graph</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SimranBadwal2006&bg_color=0D1117&color=C77DFF&line=F15BB5&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph"/>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=SimranBadwal2006&theme=tokyo-night&hide_border=true&area=true"
+    width="100%"
+    alt="GitHub contribution activity graph"
+  />
 </p>
 
 ---
