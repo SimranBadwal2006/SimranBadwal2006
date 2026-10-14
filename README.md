@@ -173,31 +173,27 @@ Hi there! I'm **Simranjeet Kaur**, a Computer Science Engineering student who lo
 
 ---
 
+
 ## ♡ Certifications
 
 <p align="center">
   <a href="https://www.freecodecamp.org/certification/simranjeet_kaur/responsive-web-design-v9">
-    <img src="https://img.shields.io/badge/freeCodeCamp-Responsive_Web_Design-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="Responsive Web Design certificate"/>
+    <img src="https://img.shields.io/badge/freeCodeCamp-Responsive_Web_Design-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="Responsive Web Design"/>
   </a>
-
   <br/><br/>
-<p align="center">
   <a href="https://www.hackerrank.com/certificates/40f787e05b5f">
-    <img src="https://img.shields.io/badge/HackerRank-SQL-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="SQL certificate"/>
+    <img src="https://img.shields.io/badge/HackerRank-SQL-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="SQL"/>
   </a>
-
   <br/><br/>
-<p align="center">
   <a href="https://www.hackerrank.com/certificates/2d8df524b4f8">
-    <img src="https://img.shields.io/badge/HackerRank-CSS-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="CSS certificate"/>
+    <img src="https://img.shields.io/badge/HackerRank-CSS-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="CSS"/>
   </a>
-
   <br/><br/>
-<p align="center">
   <a href="https://certhub.id8nxt.com/certificate/61fwrmnvNu">
-    <img src="https://img.shields.io/badge/Salesforce-AI_Builders_Day-E21D3B?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce AI Builders Day certificate"/>
+    <img src="https://img.shields.io/badge/Salesforce-AI_Builders_Day-E21D3B?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce AI Builders Day"/>
   </a>
 </p>
+
 
 ---
 
