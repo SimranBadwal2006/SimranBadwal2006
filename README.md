@@ -187,6 +187,10 @@ Hi there! I'm **Simranjeet Kaur**, a Computer Science Engineering student who lo
   <a href="https://www.hackerrank.com/certificates/2d8df524b4f8">
     <img src="https://img.shields.io/badge/HackerRank-CSS-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="CSS certificate"/>
   </a>
+ <br/><br/>
+<a href="https://certhub.id8nxt.com/certificate/61fwrmnvNu">
+  <img src="https://img.shields.io/badge/Certificate-View%20Certificate-C77DFF?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Additional Certificate"/>
+</a>
 </p>
 
 ---
