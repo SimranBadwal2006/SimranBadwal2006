@@ -45,9 +45,9 @@ Hi there! I'm **Simranjeet Kaur**, a Computer Science Engineering student who lo
 
 ## ✦ Featured Projects
 
-<table>
+<table align="center" width="100%">
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="center">
       <h3>🤖 StudySphere AI</h3>
       <p><i>Your smart AI-powered study companion</i></p>
       <p>
