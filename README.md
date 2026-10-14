@@ -173,7 +173,6 @@ Hi there! I'm **Simranjeet Kaur**, a Computer Science Engineering student who lo
 
 ---
 
-```html
 ## ♡ Certifications
 
 <p align="center">
