@@ -187,11 +187,13 @@ Hi there! I'm **Simranjeet Kaur**, a Computer Science Engineering student who lo
   <a href="https://www.hackerrank.com/certificates/2d8df524b4f8">
     <img src="https://img.shields.io/badge/HackerRank-CSS-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="CSS certificate"/>
   </a>
+
   <br/><br/>
   <a href="https://certhub.id8nxt.com/certificate/61fwrmnvNu">
-    <img src="https://img.shields.io/badge/AI_Builders_Day-Certificate_of_Appreciation-E21D3B?style=for-the-badge&logo=salesforce&logoColor=white" alt="AI Builders Day Certificate of Appreciation"/>
+    <img src="https://img.shields.io/badge/Salesforce-AI_Builders_Day-E21D3B?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce AI Builders Day Certificate"/>
   </a>
-```
+
+
 </p>
 
 ---
