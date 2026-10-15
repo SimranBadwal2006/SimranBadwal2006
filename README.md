@@ -43,7 +43,9 @@ Hi there! I'm **Simranjeet Kaur**, a Computer Science Engineering student who lo
   <i>"Small steps every day lead to big achievements."</i> ✨
 </p>
 
+
 ---
+
 
 ## ✦ Featured Projects
 
