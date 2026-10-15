@@ -177,6 +177,7 @@ Hi there! I'm **Simranjeet Kaur**, a Computer Science Engineering student who lo
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Git, GitHub, VS Code and Postman"/>
 </p>
 
+
 ---
 
 
@@ -203,6 +204,7 @@ Hi there! I'm **Simranjeet Kaur**, a Computer Science Engineering student who lo
 
 ---
 
+
 ## ✧ GitHub Analytics
 
 <p align="center">
@@ -214,7 +216,9 @@ Hi there! I'm **Simranjeet Kaur**, a Computer Science Engineering student who lo
   <img width="75%" src="https://streak-stats.demolab.com?user=SimranBadwal2006&theme=tokyonight&hide_border=true&background=0D1117&ring=C77DFF&fire=F15BB5&currStreakLabel=C77DFF" alt="GitHub contribution streak"/>
 </p>
 
+
 ---
+
 
 ## 📊 GitHub Activity
 
@@ -223,6 +227,7 @@ Hi there! I'm **Simranjeet Kaur**, a Computer Science Engineering student who lo
     <img src="https://img.shields.io/badge/Visit%20my-GitHub-181717?style=for-the-badge&logo=github" alt="Visit my GitHub"/>
   </a>
 </p>
+
 
 ---
 
