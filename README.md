@@ -147,7 +147,9 @@ Hi there! I'm **Simranjeet Kaur**, a Computer Science Engineering student who lo
   <i>Explore my repositories for source code and project updates.</i>
 </p>
 
+
 ---
+
 
 ## ✿ Tech Stack
 
