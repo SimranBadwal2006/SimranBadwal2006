@@ -5,7 +5,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=20&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=650&lines=Building+Projects%2C+One+Line+at+a+Time;Exploring+AI-Powered+Applications;Learning+Today%2C+Building+Tomorrow+%E2%9C%A8" alt="Typing introduction"/>
 </p>
-
 <p align="center">
   <a href="https://github.com/SimranBadwal2006">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
