@@ -1,6 +1,7 @@
  <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:2D1B69,50:9B5DE5,100:F15BB5&text=Simranjeet%20Kaur&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack&descSize=17&descAlignY=58" width="100%" alt="Simranjeet Kaur profile banner"/>
 </p>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=20&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=650&lines=Building+Projects%2C+One+Line+at+a+Time;Exploring+AI-Powered+Applications;Learning+Today%2C+Building+Tomorrow+%E2%9C%A8" alt="Typing introduction"/>
 </p>
